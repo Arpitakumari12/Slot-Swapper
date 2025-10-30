@@ -1,1 +1,1 @@
-# Slot-Swapper
+SlotSwapper simplifies time management by enabling users to coordinate and trade their busy time slots seamlessly. Instead of manually rescheduling, users can easily find others with compatible availabilities and swap slots with mutual consent. This collaborative approach reduces scheduling conflicts, saves time, and enhances productivity for teams, students, and professionals alike.
